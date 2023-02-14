@@ -8,8 +8,8 @@
 
 <H5>Interview</h5>
 <ol>
-<li>11 february (pending)</li>
-  <li>13 february  12.00 am(pending)</li>
+<li>11 february (No)</li>
+  <li>13 february  12.00 am(Sleep)</li>
 
 <li></li>
 
