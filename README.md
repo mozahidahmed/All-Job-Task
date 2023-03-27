@@ -4,6 +4,7 @@
 <li>interactly-video  https://incredible-dieffenbachia-4bc9dd.netlify.app/</li>
 <li>Botspot Al js developer ( authetication with nodeJS</li>
 <li>  Softnerve Technology Private Limited</li>
+<li> Landing pages design</li>
 <H5>Interview</h5>
 <ol>
 <li>11 february (No)</li>
